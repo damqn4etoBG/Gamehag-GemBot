@@ -3,4 +3,6 @@ This Bot will farm gems for you on gamehag
 
 This bot uses tv-zone
 
+You also need to have python installed btw
+
 Important: You need to do tasks in order for the bot to run.
