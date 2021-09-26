@@ -19,5 +19,6 @@ Place your mouse in the middle and when the bot opens the first page turn on the
 
 I had 170 soul gems before i ran the bot.
 
-![proof2](https://user-images.githubusercontent.com/79470838/134804298-d51ebd0f-6bc9-477f-96e2-bb098715d8c9.png)
+![proof5](https://user-images.githubusercontent.com/79470838/134806143-5013a231-e0d3-478d-92b9-ba8bdda0508a.png)
+
 
