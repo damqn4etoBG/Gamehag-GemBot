@@ -5,4 +5,4 @@ This bot uses tv-zone
 
 You also need to have python installed btw
 
-Important: You need to do tasks in order for the bot to run.
+Important: Gamehag has a daily limit of 70 soul gems per day.
