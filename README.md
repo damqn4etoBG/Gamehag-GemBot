@@ -5,7 +5,7 @@ This bot uses tv-zone
 
 You also need to have python installed btw
 
-Important: Gamehag has a daily limit of 70 soul gems per day. But you can change your time and date on your pc to 2 days after today's time.
+Important: Gamehag has a daily limit of 100 soul gems per day. But you can change your time and date on your pc to 2 days after today's time.
 Also you need an auto clicker to click every 20 seconds like this:
 
 ![proof3](https://user-images.githubusercontent.com/79470838/134804447-e326ed48-76ef-4962-8c42-054548b60211.png)
